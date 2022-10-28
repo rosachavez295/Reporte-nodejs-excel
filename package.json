@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "sequelize": "^6.25.3",
     "tedious": "^15.1.0"
   },
   "scripts": {
