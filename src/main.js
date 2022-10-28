@@ -1,4 +1,4 @@
-const sequelize = new Sequelize("Prueba", "username", "password", {
+const sequelize = new Sequelize("Prueba", "rchavez", "123456", {
   host: "localhost",
   dialect: "mssql",
 });

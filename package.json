@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "tedious": "^15.1.0"
+  },
+  "scripts": {
+    "dev": "node src/index.js"
   }
 }
